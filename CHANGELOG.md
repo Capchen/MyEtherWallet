@@ -1,3 +1,12 @@
+### ui
+
+* fix dapp ui overflow on smaller screens [#4627](https://github.com/MyEtherWallet/MyEtherWallet/pull/4627)
+
+### devop
+
+* remove mew connect, replace mew cx with enkrypt [#4629](https://github.com/MyEtherWallet/MyEtherWallet/pull/4629)
+* fix tab favicon on safari [#4631](https://github.com/MyEtherWallet/MyEtherWallet/pull/4631)
+
 ### Release v6.7.3
 
 ### devop
